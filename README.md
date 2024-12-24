@@ -8,3 +8,8 @@
 - [Project 6: Census Data Analysis](https://github.com/GOURAV1630/Data-Analysis-with-Python-Projects/blob/main/Project%206-Census%20Data%20Analysis.ipynb)
 - [Project 7: Udemy Data Analysis](https://github.com/GOURAV1630/Data-Analysis-with-Python-Projects/blob/main/Project%207%20%20Udemy%20Data%20Analysis.ipynb)
 - [Project 8: Netflix Data Analysis](https://github.com/GOURAV1630/Data-Analysis-with-Python-Projects/blob/main/Project%208%20%20Netflix%20Data%20Analysis.ipynb)
+
+# Course Certificate
+![UC-e7f9039b-eb1f-495d-ad82-e204b9f74c18](https://github.com/user-attachments/assets/600633ef-f9f4-4951-9fe1-225fb821f313)
+
+This certificate above verifies that Gourav Gupta successfully completed the course Python - Data Analytics - Real World Hands-on Projects on 12/24/2024 as taught by Data Science Lovers on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion.
