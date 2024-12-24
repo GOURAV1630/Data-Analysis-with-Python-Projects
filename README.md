@@ -5,3 +5,6 @@
 - [Project 3: Police Data Analysis](https://github.com/GOURAV1630/Data-Analysis-with-Python-Projects/blob/main/Project%203%20-%20Police%20Data%20Analysis.ipynb)
 - [Project 4: Covid-19 Data Analysis](https://github.com/GOURAV1630/Data-Analysis-with-Python-Projects/blob/main/Project%204%20%20Covid-19%20Data%20Analysis.ipynb)
 - [Project 5: London Housing Data Analysis](https://github.com/GOURAV1630/Data-Analysis-with-Python-Projects/blob/main/Project%205%20%20London%20Housing%20Data%20Analysis.ipynb)
+- [Project 6: Census Data Analysis](https://github.com/GOURAV1630/Data-Analysis-with-Python-Projects/blob/main/Project%206-Census%20Data%20Analysis.ipynb)
+- [Project 7: Udemy Data Analysis](https://github.com/GOURAV1630/Data-Analysis-with-Python-Projects/blob/main/Project%207%20%20Udemy%20Data%20Analysis.ipynb)
+- [Project 8: Netflix Data Analysis](https://github.com/GOURAV1630/Data-Analysis-with-Python-Projects/blob/main/Project%208%20%20Netflix%20Data%20Analysis.ipynb)
